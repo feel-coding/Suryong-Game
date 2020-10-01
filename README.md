@@ -3,4 +3,4 @@
 
 1라운드 실행화면
 
-![수룡이의 스펙쌓기 1라운드](https://user-images.githubusercontent.com/46566478/94814494-5ec96700-0434-11eb-8182-93a8b7b8b508.gif)
+![수룡이의 스펙쌓기 1라운드](https://user-images.githubusercontent.com/46566478/94814818-c2ec2b00-0434-11eb-821d-44469ed794fc.gif)
